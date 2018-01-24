@@ -47,6 +47,7 @@ table {
     color: black;
 	text-align: center;
 	font-size: 1.5vw;
+	font-size: calc(14px + 0.2vw);
 }
 table tr:not(#days) td {
     color: black;
@@ -63,8 +64,6 @@ table tr:not(#days) td:not(.otherMonth) {
 .otherMonth {
     background-color: rgba(0,0,0,0);
 }
-
-/* CONTENT */
 .alignedImage {
     background-size: cover;
     background-position: center;
