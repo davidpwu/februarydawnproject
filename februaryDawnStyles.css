@@ -38,9 +38,9 @@ h2, p {
 	color: black;
 }
 table {
-	width: 98%;
+	width: 96%;
     border-collapse: collapse; 
-	margin: 0 1% 1% 1%;
+	margin: 0 2% 2% 2%;
 	min-width: 700px;
 }
 #days {
