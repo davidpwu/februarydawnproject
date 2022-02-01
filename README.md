@@ -1,4 +1,4 @@
-# February Dawn Project (Feb 2020, Past: Feb 2018)
+# February Dawn Project (Feb 2022, Past: Feb 2020/2018)
 
 ## Table of Contents
 
@@ -6,6 +6,9 @@
 * [Try](#try)
 
 ## Details
+
+From 2022:
+A picture of my watch right after I get up will be posted here for every day of February 2022.
 
 From 2020:
 A picture of my watch right after I get up will be posted here every day of February 2020.
